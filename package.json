@@ -28,7 +28,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://ads0218.github.io/makespace_copy",
+  "homepage": "https://ads0218.github.io/makespace_copy/public",
   "devDependencies": {
     "gh-pages": "^2.1.0"
   },
