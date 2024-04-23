@@ -31,6 +31,6 @@
   },
   "homepage": "https://ads0218.github.io/makespace_copy",
   "devDependencies": {
-    "gh-pages": "^2.1.0"
+    "gh-pages": "^5.0.0"
   }
 }
